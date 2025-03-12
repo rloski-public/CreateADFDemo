@@ -1,0 +1,9 @@
+{
+	"name": "LoskiDemoCreateADF",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48677191-3980-4261-adaf-79ac45c9eca5",
+		"tenantId": "c6f7e7ad-d53c-4360-8103-d656decd29f4"
+	}
+}
